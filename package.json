@@ -1,0 +1,22 @@
+{
+  "name": "rtmp_project",
+  "version": "1.0.0",
+  "description": "Testing RTMP with NodeJs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrionStark/rtmp_project.git"
+  },
+  "author": "Robby Muhammad Nst",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OrionStark/rtmp_project/issues"
+  },
+  "homepage": "https://github.com/OrionStark/rtmp_project#readme",
+  "dependencies": {
+    "node-media-server": "^2.1.2"
+  }
+}
